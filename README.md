@@ -1,7 +1,7 @@
 # FlickR.bundle
 Plex Channel for FlickR Photos
 
-Installation
+###Installation
 
 Locate your Plex Media Server Plug-Ins folder:
 
